@@ -74,7 +74,7 @@
             this.Controls.Add(this.CalculoPrimos);
             this.Controls.Add(this.textBox1);
             this.Name = "FrmAplicacion1";
-            this.Text = "Form1";
+            this.Text = "Primos";
             this.contextMenuStrip1.ResumeLayout(false);
             this.ResumeLayout(false);
             this.PerformLayout();
